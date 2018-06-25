@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <link rel="css stylesheet" type="text/css" href="CSS\LearnCSS.css">
+  </head>
+
+    <body>
+      <header>
+      <!--<div style="filter:alpha(opacity=75); opacity:0.75;">-->
+        <div class="container">
+          <img src="images\panorama_sunset.jpg" width=100% height="25%"></img>
+          <div class="centered"><h1>Another Coder's Journey to Greatness...</h1>
+              <em><h2>Building life... one line of code at a time.</h2></em>
+    </div>
+  </div>
+      </header>
+      <section>
+      <div class="background">
+      <div class="nav" id="myTopnav"><u><h3>A Look Through My Journey</h3></u>
+      <!--<div class="w3-sidebar w3-bar-block" style="width:25%">-->
+        <a href="index.html" class="active">Home</a></br>
+        <a href="#">HTML/CSS</a></br>
+        <a href="#">JavaScript</a></br>
+        <a href="#">Ruby on Rails</a></br>
+        <a href="#">General Programming Resources</a>
+        <a href="javascript:void(0);" class="icon"
+      onclick="myFunction()"></a>
+      </div>
+
+      <div style=margin-left:25%>
